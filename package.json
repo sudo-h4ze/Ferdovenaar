@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  },
+  "name": "ferdovenaar",
+  "description": "Bot voor verrtering",
+  "version": "3427.12.99999999999",
+  "main": "bot.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudo-h4ze/Ferdovenaar.git"
+  },
+  "keywords": [
+    "veranto",
+    "ferdo",
+    "wander",
+    "homo"
+  ],
+  "author": "FerLeo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sudo-h4ze/Ferdovenaar/issues"
+  },
+  "homepage": "https://github.com/sudo-h4ze/Ferdovenaar#readme"
+}
